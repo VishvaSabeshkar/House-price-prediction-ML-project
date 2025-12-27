@@ -44,3 +44,5 @@ Predict housing prices for new unseen data.
 * Matplotlib / Seaborn
 * Scikit-learn
 
+
+uvicorn main:app --reload
