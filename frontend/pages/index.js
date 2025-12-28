@@ -509,7 +509,7 @@ export default function Home() {
                 lineHeight: '1.6',
                 textAlign: 'center',
               }}>
-                💡 This prediction is generated using advanced machine learning algorithms trained on California housing data. Results are estimates and should be used for reference purposes only.
+                💡 This prediction is generated using advanced machine learning algorithms trained on housing data. Results are estimates and should be used for reference purposes only.
               </p>
             </div>
           </div>
