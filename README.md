@@ -115,3 +115,10 @@ npm install
 npm run dev
 
 ```
+
+## 📝 Summary 
+
+The House Price Prediction project demonstrates how machine learning and data analytics can be applied to real-world real estate problems.
+It delivers a practical and interactive solution for estimating property values, combining robust ML models with a modern full-stack implementation.
+
+Demo - https://github.com/user-attachments/assets/0b4f9565-dc31-4093-910d-a1f8c84363d8
